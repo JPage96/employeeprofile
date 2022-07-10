@@ -1,0 +1,28 @@
+{
+  "name": "challenge10",
+  "version": "1.0.0",
+  "description": "challenge 10 homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^6.5.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+
+}
